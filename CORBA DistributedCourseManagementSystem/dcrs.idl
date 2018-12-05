@@ -1,0 +1,25 @@
+module DcrsApp {
+	interface Dcrs{
+	
+	oneway void shutdown();
+	
+	// Advisor Functions
+	string addCourse(in string courseID,in string semester);
+	string removeCourse(in string courseID,in string semester);
+	string listCourseAvailability(in string semester);
+	
+	//Student Functions
+	string enrolCourse(in string studentID,in string courseID,in string semester);
+	string getClassSchedule(in string studentID);
+	string dropCourse(in string studentID,in string courseID);
+	string swapCourse(in string studentId,in string newCourseId, in string oldCourseId);
+	
+	//helper methods
+	long checkRegistration(in string studentId);
+	string registerNewUser(in string studentId);
+	void setUser(in string user);
+	string getUser();
+	void setCapacity(in long capacity);
+	long getCapacity();
+	};
+};
