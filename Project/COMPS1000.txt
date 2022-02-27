@@ -1,0 +1,14 @@
+Client : Student
+Request Type : Get Class Schedule
+Request Parameters : 1.Student Id : COMPS1000
+Date and time : 2018/11/26 21:05:04
+Request completion : success
+Server Response : [WINTER:{ },FALL:{ },SUMMER:{ }]
+
+Client : Student
+Request Type : Get Class Schedule
+Request Parameters : 1.Student Id : COMPS1000
+Date and time : 2018/11/26 23:04:00
+Request completion : success
+Server Response : [WINTER:{ },FALL:{ },SUMMER:{ }]
+

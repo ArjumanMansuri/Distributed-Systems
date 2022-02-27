@@ -1,0 +1,486 @@
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/24 23:40:23
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/24 23:40:23
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/24 23:40:23
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/24 23:40:23
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/24 23:40:24
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/24 23:40:24
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/24 23:47:12
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/24 23:47:12
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/24 23:47:12
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/24 23:47:12
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/24 23:47:12
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/24 23:47:12
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/24 23:51:38
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/24 23:51:38
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/24 23:51:38
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/24 23:51:38
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/24 23:51:38
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/24 23:51:38
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/24 23:55:13
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/24 23:55:13
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/24 23:55:13
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/24 23:55:13
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/24 23:55:13
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/24 23:55:13
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:01:03
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:01:03
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:01:03
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:01:03
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:01:03
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:01:03
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:06:28
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:06:28
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:06:28
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:06:28
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:06:28
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:06:28
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:15:45
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:15:45
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:15:45
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:15:45
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:15:45
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:15:45
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:27:21
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:27:21
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:27:21
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:27:21
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:27:21
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:27:21
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:34:19
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:34:19
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:34:19
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:34:19
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:34:19
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:34:19
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:38:22
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:38:22
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:38:22
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:38:22
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:38:22
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:38:22
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 00:58:44
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 00:58:44
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 00:58:44
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 00:58:44
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 00:58:44
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 00:58:44
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 01:03:02
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 01:03:02
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 01:03:02
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 01:03:02
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 01:03:02
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 01:03:02
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 01:10:18
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 01:10:18
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 01:10:18
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 01:10:18
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 01:10:18
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 01:10:18
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 01:19:36
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 01:19:36
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 01:19:36
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 01:19:36
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 01:19:36
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 01:19:36
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 01:29:16
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 01:29:16
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 01:29:16
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 01:29:16
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 01:29:16
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 01:29:16
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 01:36:25
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 01:36:25
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 01:36:25
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 01:36:25
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 01:36:25
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 01:36:25
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 01:59:30
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 01:59:30
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 01:59:30
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 01:59:30
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 01:59:30
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 01:59:30
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 02:06:29
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 02:06:29
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 02:06:29
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 02:06:29
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 02:06:29
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 02:06:29
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/25 02:09:48
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/25 02:09:48
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/25 02:09:48
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/25 02:09:48
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/25 02:09:48
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/25 02:09:48
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 20:57:26
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 20:57:26
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 20:57:26
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 20:57:26
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 20:57:26
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 20:57:26
+
+Mon 26/11/2018 20:57:37GetSchedule (COMPS1000) success a
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 21:02:07
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 21:02:07
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 21:02:07
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 21:02:07
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 21:02:07
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 21:02:07
+
+Mon 26/11/2018 21:02:11GetSchedule (COMPS1000) success a
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 21:05:02
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 21:05:02
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 21:05:02
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 21:05:02
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 21:05:02
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 21:05:02
+
+Client : Student
+Request Type : Get Class Schedule
+Request Parameters : 1.Student Id : COMPS1000
+Date and time : 2018/11/26 21:05:04
+Request completion : success
+Server Response : [WINTER:{ },FALL:{ },SUMMER:{ }]
+
+Mon 26/11/2018 21:05:04GetSchedule (COMPS1000) success a
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 22:41:53
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 22:41:53
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 22:41:53
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 22:41:53
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 22:41:53
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 22:41:53
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 22:50:53
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 22:50:53
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 22:50:53
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 22:50:53
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 22:50:53
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 22:50:53
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 22:57:25
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 22:57:25
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 22:57:25
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 22:57:25
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 22:57:25
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 22:57:25
+
+Student registered successfully with student id : COMPS1000
+Date and time : 2018/11/26 23:03:48
+
+Student registered successfully with student id : COMPS1001
+Date and time : 2018/11/26 23:03:48
+
+Student registered successfully with student id : COMPS1002
+Date and time : 2018/11/26 23:03:48
+
+Advisor registered successfully with advisor id : COMPA1000
+Date and time : 2018/11/26 23:03:48
+
+Advisor registered successfully with advisor id : COMPA1001
+Date and time : 2018/11/26 23:03:48
+
+Advisor registered successfully with advisor id : COMPA1002
+Date and time : 2018/11/26 23:03:48
+
+Client : Student
+Request Type : Get Class Schedule
+Request Parameters : 1.Student Id : COMPS1000
+Date and time : 2018/11/26 23:04:00
+Request completion : success
+Server Response : [WINTER:{ },FALL:{ },SUMMER:{ }]
+
+Mon 26/11/2018 23:04:00GetSchedule (COMPS1000) success a

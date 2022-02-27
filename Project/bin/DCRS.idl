@@ -1,0 +1,14 @@
+module DCRS{
+	
+	interface computeTaskInterface{
+	
+		long checkRegistration(in string msg);
+		string enrollCourse(in string msg);
+		string getClassSchedule(in string msg);
+		string dropCourse(in string msg);
+		string swapCourse(in string msg);
+		string addCourse(in string msg);
+		string removeCourse(in string msg);
+		string listCourseAvailability(in string msg);		
+	};
+};
